@@ -1,0 +1,6 @@
+{
+  "name": "KNR Fashions",
+  "description": "Premium luxury fashion e-commerce store with an interactive product gallery, customer profile management, secure admin panel, and integrated WhatsApp quick-checkout system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
